@@ -9,7 +9,7 @@ print("Mon role va etre de t'aider dans cette tache.\n")
 print("Cela va se derouler sous forme de chasse au tresor collaborative.")
 print("Je m'explique, tu va avoir 3 indices a decouvrir.")
 print("Tes amis vont se charger de te donner chacun les elements pour que tu puisse trouver un indice.")
-print("A noter que si tu as du mal à trouver tes amis pourront t'aider car il leur a été fourni des indices à te communiquer en cas de blocage de ta part dans la recherche d'un indice\n")
+print("A noter que si tu as du mal a trouver tes amis pourront t'aider car il leur a ete fourni des indices a te communiquer en cas de blocage de ta part dans la recherche d'un indice\n")
 print("A chaque decouverte d'indice, tu pourra me partager l'indice en question et je te confirmerai si il est bon\n\n")
 
 print("MENU\n---------------")
