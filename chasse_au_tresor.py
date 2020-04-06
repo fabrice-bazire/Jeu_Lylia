@@ -1,5 +1,4 @@
 import sys
-import string
 
 print("\nBienvenue Lylia !!\n")
 choix = 0
@@ -21,7 +20,7 @@ print("5 - Tu as trouve tout les indices")
 print("6 - Quitter l'application\n")
 
 choix = input('\nTape ton choix ici : ')
-while choix < 1 or choix > 5 : 
+while choix < 1 or choix > 6 : 
     choix = input('Erreur\nTape ton choix ici : ')
 if choix == 1 :
     print("\nC'est Justin qui est en charge de cet indice\nA toi de le contacter et de lui demander comment trouver cet indice\n")
