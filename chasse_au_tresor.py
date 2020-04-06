@@ -26,8 +26,12 @@ if choix == 1 :
     print("\nC'est Justin qui est en charge de cet indice\nA toi de le contacter et de lui demander comment trouver cet indice\n")
 if choix == 2 :
     print("\nC'est Yohann qui est en charge de cet indice\nA toi de le contacter et de lui demander comment trouver cet indice\n")
+    print("ATTENTION : pour avoir de l'aide, tu devra donner un code a Yohann, ce code represente une date significative et personnelle que tu pourra toi meme")
+    print("calculer, en faisant la somme de 3 chiffres apparaissants sur les noms des images de l'indice 1, tu n'as le droit qu'a 3 essais !!\n")
 if choix == 3 :
     print("\nC'est Perrine qui est en charge de cet indice\nA toi de la contacter et de lui demander comment trouver cet indice\n")
+    print("ATTENTION : pour avoir de l'aide, tu devra donner un code a Perrine, ce code represente une date significative et personnelle que tu pourra toi meme")
+    print("calculer, en faisant la somme de 3 chiffres apparaissants sur les noms des images de l'indice 1, tu n'as le droit qu'a 3 essais !!\n")
 if choix == 4 :
     indice = input("\nQuel indice veut tu valider ? (1, 2 ou 3) ")
     while indice < 1 or indice > 3 :
